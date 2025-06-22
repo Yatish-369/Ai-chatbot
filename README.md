@@ -34,24 +34,28 @@ Receive model-generated responses.
 Display the responses in the terminal.
 
 📂 Project Structure
+
 bash
 Copy
 Edit
 chat_with_bot/
 ├── chatbot.py   # Main Python script to chat with the bot
 🚀 Getting Started
+
 1. Clone the Repository
 bash
 Copy
 Edit
 git clone https://github.com/your-username/python-chatbot-together-ai.git
 cd python-chatbot-together-ai
-2. Install Dependencies
+
+3. Install Dependencies
 bash
 Copy
 Edit
 pip install requests
-3. Update API Key
+
+5. Update API Key
 Open chatbot.py and replace:
 
 python
